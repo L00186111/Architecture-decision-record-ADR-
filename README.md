@@ -1,1 +1,1 @@
-# Architecture-decision-record-ADR-
+# Architecture-decision-record-(ADR)
